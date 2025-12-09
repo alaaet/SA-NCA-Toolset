@@ -1,0 +1,3 @@
+# Cloud Cybersecurity Controls
+
+The Cloud Cybersecurity Controls (CCC – 2: 2024) have been updated to reflect changes related to data localization requirements. The CCC developed as an extension to the ECC. It aims to achieve higher levels of national cybersecurity goals by focusing on cloud computing services from the perspective of Cloud Service Providers (CSPs) and Cloud Service Tenants (CSTs). Also, the CCC aims to set the minimum requirements for cybersecurity of cloud computing, for both CSPs and CSTs, to contribute to enabling the CSPs and the CSTs to provide and use secure cloud computing services and mitigate cyber risks against them.

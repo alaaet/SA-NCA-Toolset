@@ -1,0 +1,3 @@
+# Regulatory Framework for Licensing Managed Security Operations Center Services
+
+The National Cybersecurity Authority, as the national authority responsible for cybersecurity in the Kingdom, establishing policies, governance mechanisms, frameworks, standards, controls, and guidelines related to cybersecurity ; as well as circulating them with relevant stakeholders, following up their compliance, and updating them. The Regulatory Framework for Licensing Managed Security Operations Center (MSOC) Services aims to regulate the provision of MSOC services to national organizations, providing a framework that outlines the responsibilities and obligations of service providers to enhance the efficiency of these services.

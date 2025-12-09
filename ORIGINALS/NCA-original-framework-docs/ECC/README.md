@@ -1,0 +1,3 @@
+# Guide to Essential Cybersecurity Controls (ECC) Implementation
+
+National Cybersecurity Authority (NCA) is the government entity in charge of cybersecurity in the Kingdom, and it serves as the national authority on its affairs. NCA is mandated to develop and update policies, governance mechanisms, frameworks, standards, controls and guidelines related to cybersecurity, share them with relevant entities and follow up on their compliance. The purpose of developing Guide to Essential Cybersecurity Controls (ECC) Implementation to enable the targeted entities in implementing ECC requirements that are needed for their compliance and identify relevant cybersecurity tools that are developed by NCA.
